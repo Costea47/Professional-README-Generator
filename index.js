@@ -17,7 +17,7 @@ const questions = [
       },
       {
         type: 'input',
-        name: 'instalation',
+        name: 'installation',
         message: 'What command should be run to install dependencies?',
       },
       {
@@ -38,17 +38,17 @@ const questions = [
       },
       {
         type: 'input',
-        name: 'test',
+        name: 'tests',
         message: 'What command should be run to run tests?',
       },
       {
         type: 'input',
-        name: 'question1',
+        name: 'username',
         message: 'What is your GitHub username?',
       },
       {
         type: 'input',
-        name: 'question2',
+        name: 'email',
         message: 'What is your email adress?',
       },
 
