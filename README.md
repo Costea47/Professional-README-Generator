@@ -58,7 +58,7 @@ The following image shows the challange appearance and functionality:
 
 
 ![Application Screenshot](/images/screenshot.png)
-
+![Application Screenshot](/images/screenshot2.png)
 ## License
 This project is licensed under the MIT license.
 
